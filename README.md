@@ -1,1 +1,2 @@
 # TaskPilot
+TaskPilot is a lightweight and responsive task viewer built using React, Vite, and Tailwind CSS. It fetches task data from JSONPlaceholder and provides a smooth user experience with features like real-time search, pagination, and detailed task views. The application also includes a clean light/dark theme toggle, demonstrating modern UI practices and efficient state management, making it a great example of a simple yet functional frontend project.
